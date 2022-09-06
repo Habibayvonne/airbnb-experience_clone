@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/airbnb-experience_clone/static/js/main.c5289dfb.js",
+    "index.html": "/airbnb-experience_clone/index.html",
+    "main.c5289dfb.js.map": "/airbnb-experience_clone/static/js/main.c5289dfb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c5289dfb.js"
+  ]
+}
